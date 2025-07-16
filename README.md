@@ -2,7 +2,7 @@
 
 Este repositório contém a implementação do desafio "Batalha Naval - Nível Mestre", utilizando a linguagem C.
 
-# Objetivo
+## Objetivo
 
 Simular o tabuleiro de um jogo de Batalha Naval com habilidades especiais representadas em matrizes: **cone**, **cruz** e **octaedro**, marcando as áreas afetadas com `1` e áreas livres com `0`.
 
