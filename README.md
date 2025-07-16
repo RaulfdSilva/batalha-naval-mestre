@@ -15,5 +15,3 @@ Simular o tabuleiro de um jogo de Batalha Naval com habilidades especiais repres
   - Cruz
   - Octaedro
 
-## Exemplo de Saída
-
